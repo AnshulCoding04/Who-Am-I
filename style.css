@@ -12,8 +12,12 @@ p {
   background-color: black;
 }
 
-.img: Indiaflag.png {
-  width: 900px
+.img-india {
+  width: 800px
+}
+
+.img-canada {
+  width: 800px
 }
 
 h2 {
