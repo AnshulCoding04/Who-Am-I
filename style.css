@@ -1,6 +1,13 @@
 h1 {
   color: lime;
   font-size: 80px;
+  margin: 0px;
   background-color: black;
   text-align: center;
+}
+
+p {
+  color: lime;
+  font-size: 40px;
+  background-color: black;
 }
