@@ -23,4 +23,6 @@ p {
 h2 {
   color: lime;
   font-size: 60px;
+  margin: 0px;
+  text-align: center;
 }
