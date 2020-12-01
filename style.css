@@ -23,6 +23,11 @@ p {
 h2 {
   color: lime;
   font-size: 60px;
-  margin: 0px;
+  margin: 10px;
   text-align: center;
+}
+
+p {
+  color: lime;
+  font-size: 40px;
 }
