@@ -8,6 +8,14 @@ h1 {
 
 p {
   color: lime;
-  font-size: 40px;
+  font-size: 35px;
   background-color: black;
+}
+
+.img-India {
+  width: 80px;
+}
+
+.img-Canada {
+  width: 80px;
 }
